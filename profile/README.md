@@ -14,7 +14,7 @@
 
 
 ## Our Purpose 😇
-Our organization's main purpose is to help out beginner developers with open source, by providing them beginner friendly but real world projects. They can learn more about `git` and `github` by contributing in these peojects, as well as the technologies. By working in a community they can learn **professional comunication**, **best practices**,  **programming patterns** and more. 
+Our organization's main purpose is to help out beginner developers with open source, by providing them beginner friendly but real world projects. They can learn more about `git` and `github` by contributing in these projects, as well as the technologies. By working in a community they can learn **professional comunication**, **best practices**,  **programming patterns** and more. 
 
 ## Our Goals 🥅
 Our goals are to make this organization even bigger and reach more more people in future. 
